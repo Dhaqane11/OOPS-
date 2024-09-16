@@ -8,9 +8,9 @@ public class movieTest {
         movie myMovieCollection = new movie();
 
 
-        movieItem item1 = new movieItem("Inception", "Christopher Nolan");
+        movieItem item1 = new movieItem("Maanafaay", "abdirisak ali awaale ");
         movieItem item2 = new movieItem("The Matrix", "Wachowski Sisters");
-        movieItem item3 = new movieItem("Interstellar", "Christopher Nolan");
+        movieItem item3 = new movieItem("Jacayl dhaxal galay", "Abubakar Hashi");
 
 
         myMovieCollection.addmovieItem(item1);

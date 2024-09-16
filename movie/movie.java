@@ -17,7 +17,7 @@ public class movie {
     public void printmovieDetails() {
         System.out.println("Movie Items in the Collection:");
         for (movieItem item : items) {
-            item.printDetails();  // Calling printDetails from movieItem
+            item.printDetails();
         }
     }
 }
